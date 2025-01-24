@@ -1,0 +1,7 @@
+ollama
+openai
+python-decouple
+chromadb
+peewee
+txtai[pipeline]
+git+https://github.com/neuml/txtai.git#egg=txtai
